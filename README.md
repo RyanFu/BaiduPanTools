@@ -1,23 +1,25 @@
 # BaiduPanTools
-百度云盘工具  含相关脚本、工具、资源链接等等
 
-
+百度云盘工具 含相关脚本、工具、资源链接等等
 
 资源列表:
 
 - `tools`:
+  - 百度网盘*搜索神器*盘搜搜.zip
 - `scripts`:
-    - `baiduyun_autosave.py` 百度云资源自动转存
-- `resources`:
+  - `baiduyun_autosave.py` 百度云资源自动转存
 
+## Tools
 
-## 脚本
+### 盘搜搜软件
 
+解决了百度限速的问题
 
+## scripts
 
 ### 百度云资源自动转存
 
-支持将百度云盘URL文件自动转存到自己百度云盘中
+支持将百度云盘 URL 文件自动转存到自己百度云盘中
 
 **项目详细说明:**
 
@@ -48,3 +50,8 @@ failed.txt 记录失败的URL
 
 ![参考图片 Spider_baiduyunpan_01](https://raw.githubusercontent.com/fansichao/images/master/markdown/Spider_baiduyunpan_01.png)
 
+## 其他
+
+### 参考资源
+
+- [自动将资源添加到百度网盘中](https://github.com/tengzhangchao/BaiDuPan)
